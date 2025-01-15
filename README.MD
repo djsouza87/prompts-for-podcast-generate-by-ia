@@ -99,6 +99,12 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
 
+<p align="center">
+<img 
+    src="https://github.com/djsouza87/prompts-for-podcast-generate-by-ia/blob/main/Leonardo_Phoenix_10_Create_a_caricature_of_a_podcaster_showing_0.jpg?raw=true"
+    width="300"
+/>
+</p>
 
 MEU PROJETO - Douglas Nascimento
 
