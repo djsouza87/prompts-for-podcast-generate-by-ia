@@ -94,6 +94,28 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 <br/><br/>
 <p>
 
+
 ---
 
 ⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+
+
+MEU PROJETO - Douglas Nascimento
+
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+
+Podcast "Troco certo" com assuntos envolvendo finanças pessoais.
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/) 
+- [LeonardoAI](https://app.leonardo.ai/)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Capcut](https://www.capcut.com/pt-br/)
+
+## ✨ Como foi feito?
+
+- Roteiro gerado via chatgpt
+- Audio gerado pela elevenLabs
+- LeonardoAI Para gerar capas
+- Capcut para tratar aúdio e adicionar sons de fundo
